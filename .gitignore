@@ -1,0 +1,51 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+credentials*.json
+secrets*.json
+cookies*.json
+storage-state*.json
+storage_state*.json
+.auth/
+
+# Local runtime data - never commit real account data, profiles, or logs
+accounts/*.json
+browser_profiles/
+logs/
+!logs/.gitkeep
+!logs/screenshots/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.pytest_cache/**
+*.log
+
+# Node.js
+node_modules/
+
+# GUI / local runtime state
+.gui.lock
+*.lock
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/

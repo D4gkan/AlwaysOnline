@@ -1,0 +1,22 @@
+[Unit]
+Description=CS2 Session Monitor (CSFloat / CSGOEmpire health monitor)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+# Adjust these three paths for your install location and user.
+User=monitor
+WorkingDirectory=/opt/cs2-session-monitor
+EnvironmentFile=/opt/cs2-session-monitor/.env
+# Wrap in Xvfb so a visible browser can run on a headless server.
+# Requires: apt install xvfb
+ExecStart=/usr/bin/xvfb-run -a --server-args="-screen 0 1920x1080x24" \
+  /opt/cs2-session-monitor/.venv/bin/python -m app.main
+Restart=always
+RestartSec=5
+StandardOutput=append:/opt/cs2-session-monitor/logs/service-stdout.log
+StandardError=append:/opt/cs2-session-monitor/logs/service-stderr.log
+
+[Install]
+WantedBy=multi-user.target
