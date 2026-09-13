@@ -1,21 +1,32 @@
-MIT License
+All Rights Reserved
 
 Copyright (c) 2026
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software and associated documentation files (the "Software") are the
+exclusive property of the copyright holder and are protected by copyright law,
+trade secret law, and other intellectual property laws.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Permission is granted solely to the copyright holder and any authorized
+recipient to use the Software for personal, private, non-public, and
+non-distribution purposes only. You may view, run, and modify the Software
+for your own private use, but only in a manner that does not involve
+redistribution, publication, sharing, sublicensing, selling, or otherwise
+making the Software or any modified version available to any third party.
+
+You may not copy, distribute, publish, sublicense, sell, transfer, or
+otherwise share the Software or any derivative work, in source or binary form,
+without the prior written permission of the copyright holder.
+
+The copyright holder retains all rights, title, and interest in the Software,
+including all related ideas, workflows, code, assets, and documentation.
+
+Any unauthorized use, reproduction, redistribution, or derivation of this
+Software is strictly prohibited and may constitute copyright infringement and
+other legal violations.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
+IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

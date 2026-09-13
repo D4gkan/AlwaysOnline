@@ -5,7 +5,7 @@
   <p><strong>CSFloat & CSGOEmpire Session Monitor</strong></p>
   <p>
     <img src="https://img.shields.io/badge/version-0.1.0-blue.svg" alt="Version 0.1.0" />
-    <a href="#license"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License" /></a>
+    <a href="#license"><img src="https://img.shields.io/badge/license-All%20Rights%20Reserved-red.svg" alt="All Rights Reserved" /></a>
   </p>
 </div>
 
@@ -263,9 +263,9 @@ Found a bug? **Please open an issue** with:
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) for details.
+All Rights Reserved — see [LICENSE](LICENSE) for details.
 
-Use freely in personal and commercial projects.
+This project is proprietary. You may make private local modifications for your own use, but redistribution, sharing, publication, resale, or reuse by others is not permitted without the express written permission of the copyright holder.
 
 ---
 
